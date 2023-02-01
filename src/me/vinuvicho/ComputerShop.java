@@ -4,6 +4,7 @@ import me.vinuvicho.computers.Computer;
 
 import java.util.List;
 
+//List of all methods u can test:
 public interface ComputerShop {
     Computer getComputerById(Integer id);
     List<Computer> getAllComputers();
